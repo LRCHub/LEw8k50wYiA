@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "大行侵",
+  "base_artist": "Chevon",
+  "createdAt": "2026-03-18T03:18:29.954356Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "大行侵",
+      "artist": "Chevon",
+      "has_synced": false,
+      "path": "select/pl_01_大行侵_Chevon.txt"
+    }
+  ]
+}
